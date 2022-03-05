@@ -1,0 +1,15 @@
+C:\Users\paulo\Desktop\Cadastro de Estabelecimentos\bin\Debug\net6.0\Cadastro de Estabelecimentos.exe
+C:\Users\paulo\Desktop\Cadastro de Estabelecimentos\bin\Debug\net6.0\Cadastro de Estabelecimentos.deps.json
+C:\Users\paulo\Desktop\Cadastro de Estabelecimentos\bin\Debug\net6.0\Cadastro de Estabelecimentos.runtimeconfig.json
+C:\Users\paulo\Desktop\Cadastro de Estabelecimentos\bin\Debug\net6.0\Cadastro de Estabelecimentos.dll
+C:\Users\paulo\Desktop\Cadastro de Estabelecimentos\bin\Debug\net6.0\ref\Cadastro de Estabelecimentos.dll
+C:\Users\paulo\Desktop\Cadastro de Estabelecimentos\bin\Debug\net6.0\Cadastro de Estabelecimentos.pdb
+C:\Users\paulo\Desktop\Cadastro de Estabelecimentos\obj\Debug\net6.0\Cadastro de Estabelecimentos.csproj.AssemblyReference.cache
+C:\Users\paulo\Desktop\Cadastro de Estabelecimentos\obj\Debug\net6.0\Cadastro de Estabelecimentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\Desktop\Cadastro de Estabelecimentos\obj\Debug\net6.0\Cadastro de Estabelecimentos.AssemblyInfoInputs.cache
+C:\Users\paulo\Desktop\Cadastro de Estabelecimentos\obj\Debug\net6.0\Cadastro de Estabelecimentos.AssemblyInfo.cs
+C:\Users\paulo\Desktop\Cadastro de Estabelecimentos\obj\Debug\net6.0\Cadastro de Estabelecimentos.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Desktop\Cadastro de Estabelecimentos\obj\Debug\net6.0\Cadastro de Estabelecimentos.dll
+C:\Users\paulo\Desktop\Cadastro de Estabelecimentos\obj\Debug\net6.0\ref\Cadastro de Estabelecimentos.dll
+C:\Users\paulo\Desktop\Cadastro de Estabelecimentos\obj\Debug\net6.0\Cadastro de Estabelecimentos.pdb
+C:\Users\paulo\Desktop\Cadastro de Estabelecimentos\obj\Debug\net6.0\Cadastro de Estabelecimentos.genruntimeconfig.cache
