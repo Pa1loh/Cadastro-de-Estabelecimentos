@@ -7,6 +7,7 @@ namespace Cadastro_de_Estabelecimentos.Clases
         private string Endereco { get; set; }
         private string Rua { get; set; }
         private string Numero { get; set; }
+        private bool IsDeletado { get; set; }
         private EstabelecimentoTipo Tipo { get; set; }
         public Estabelecimento(int id, string nome, string telefone, string endereco, string rua, string numero, EstabelecimentoTipo tipo)
         {
@@ -17,6 +18,7 @@ namespace Cadastro_de_Estabelecimentos.Clases
             Rua = rua;
             Numero = numero;
             Tipo = tipo;
+            this.IsDeletado = false;
         }
 
         public override string ToString()
@@ -41,6 +43,10 @@ namespace Cadastro_de_Estabelecimentos.Clases
         {
             return this.Id;
 
+        }
+        public void Exclui()
+        {
+            this.IsDeletado = true;
         }
 
 

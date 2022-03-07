@@ -4,34 +4,36 @@ namespace Cadastro_de_Estabelecimentos
 {
     public class EstabelecimentoRepositorio : IRepositorio<Estabelecimento>
     {
+
+        private List<Estabelecimento> ListadeEstabalecimentos = new List<Estabelecimento>();
         public void Atualiza(int id, Estabelecimento entidade)
         {
-            throw new NotImplementedException();
+            ListadeEstabalecimentos[id] = entidade;
         }
 
         public void Exclui(int id)
         {
-            throw new NotImplementedException();
+            ListadeEstabalecimentos[id].Exclui();
         }
 
         public void Insere(Estabelecimento entidade)
         {
-            throw new NotImplementedException();
+            ListadeEstabalecimentos.Add(entidade);
         }
 
         public List<Estabelecimento> Lista()
         {
-            throw new NotImplementedException();
+            return ListadeEstabalecimentos;
         }
 
         public int ProximoId()
         {
-            throw new NotImplementedException();
+            return ListadeEstabalecimentos.Count();
         }
 
         public Estabelecimento RetornaPorId(int id)
         {
-            throw new NotImplementedException();
+            return ListadeEstabalecimentos[id];
         }
     }
 
